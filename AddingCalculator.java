@@ -12,10 +12,13 @@ public class AddingCalculator {
 		System.out.println("Enter the second number: ");
 		double input2 = scanner.nextDouble();
 
-		System.out.println("Enter the second number: ");
+		System.out.println("Enter the third number: ");
 		double input3 = scanner.nextDouble();
+
+		System.out.println("Enter the fourth number: ");
+		double input4 = scanner.nextDouble();
 		
-		double result = input1 + input2 + input3; //insert operation here
+		double result = input1 + input2 + input3 + input4; //insert operation here
 		
 		System.out.println("Result = " + result);
 	}
