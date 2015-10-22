@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class AddingCalculator {
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);//this gets user input
 		
 		//insert type of operation here
 		System.out.println("An addition
