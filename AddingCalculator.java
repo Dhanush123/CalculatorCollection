@@ -4,7 +4,8 @@ public class AddingCalculator {
 		Scanner scanner = new Scanner(System.in);
 		
 		//insert type of operation here
-		System.out.println("An ___ calculator by Dhanush Patel.");
+		System.out.println("An addition
+ calculator by Dhanush Patel.");
 		
 		System.out.println("Enter the first number: ");
 		double input1 = scanner.nextDouble();
